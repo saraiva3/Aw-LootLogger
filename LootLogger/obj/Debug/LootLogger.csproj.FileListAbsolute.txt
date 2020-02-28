@@ -1,0 +1,55 @@
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\LootService.cs
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\LootLogger.exe.config
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\LootLogger.exe
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\LootLogger.pdb
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Base.dll
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Core.dll
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Core.Extensions.dll
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\Photon3Unity3D.dll
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Base.pdb
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Base.xml
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Core.pdb
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Core.xml
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Core.Extensions.pdb
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Core.Extensions.xml
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Packets.pdb
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\bin\Debug\PcapDotNet.Packets.xml
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\obj\Debug\LootLogger.Properties.Resources.resources
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\obj\Debug\LootLogger.Strings.resources
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\obj\Debug\LootLogger.csproj.GenerateResource.cache
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\obj\Debug\LootLogger.csproj.CopyComplete
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\obj\Debug\LootLogger.exe
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\obj\Debug\LootLogger.pdb
+C:\Users\Saraiva\Desktop\AO-DU-LootLogger-master\LootLogger\obj\Debug\LootLogger.csprojAssemblyReference.cache
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\LootService.cs
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\LootLogger.exe.config
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\LootLogger.exe
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\LootLogger.pdb
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Base.dll
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Core.dll
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Core.Extensions.dll
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\Photon3Unity3D.dll
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Base.pdb
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Base.xml
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Core.pdb
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Core.xml
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Core.Extensions.pdb
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Core.Extensions.xml
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Packets.pdb
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\PcapDotNet.Packets.xml
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\obj\Debug\LootLogger.Properties.Resources.resources
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\obj\Debug\LootLogger.Strings.resources
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\obj\Debug\LootLogger.csproj.GenerateResource.cache
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\obj\Debug\LootLogger.csproj.CopyComplete
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\obj\Debug\LootLogger.exe
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\obj\Debug\LootLogger.pdb
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\LootLogger.exe.manifest
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\bin\Debug\LootLogger.application
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\obj\Debug\LootLogger.exe.manifest
+C:\Users\Saraiva\Desktop\Aw LootLogger\LootLogger\obj\Debug\LootLogger.application

@@ -1,0 +1,11 @@
+Time,Pegou,Quantidade,Item,Morto23:56:38, C0da, 1, T6_HEAD_PLATE_SET2@3, Zencer44
+23:56:39, Fumanta, 1, T4_2H_CROSSBOWLARGE_MORGANA@3, Demais
+23:56:39, C0da, 1, T7_SHOES_LEATHER_SET2@1, Zencer44
+23:56:39, C0da, 1, T6_BAG, Zencer44
+23:56:40, LeuSagaz, 1, T6_BAG, Tuim
+23:56:56, Drag8n, 1, T4_CAPEITEM_FW_FORTSTERLING@2, Aaegon
+23:57:09, OxenteStorm, 1, T6_BAG@1, Krawini
+23:57:12, ZoReBiNhA, 1, T5_BAG, Aaegon
+23:57:51, Fumanta, 1, T4_CAPEITEM_FW_FORTSTERLING@3, Zencer44
+23:57:52, Fumanta, 4, T7_POTION_STONESKIN, Zencer44
+23:57:52, Fumanta, 1, T7_MEAL_OMELETTE@1, Zencer44
